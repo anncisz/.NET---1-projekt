@@ -1,0 +1,38 @@
+c:\users\dotnet-3\documents\visual studio 2015\Projects\Zadanie1\Zadanie1\bin\Debug\Zadanie1.exe.config
+c:\users\dotnet-3\documents\visual studio 2015\Projects\Zadanie1\Zadanie1\bin\Debug\Zadanie1.exe
+c:\users\dotnet-3\documents\visual studio 2015\Projects\Zadanie1\Zadanie1\bin\Debug\Zadanie1.pdb
+c:\users\dotnet-3\documents\visual studio 2015\Projects\Zadanie1\Zadanie1\obj\Debug\Zadanie1.csprojResolveAssemblyReference.cache
+c:\users\dotnet-3\documents\visual studio 2015\Projects\Zadanie1\Zadanie1\obj\Debug\Zadanie1.Properties.Resources.resources
+c:\users\dotnet-3\documents\visual studio 2015\Projects\Zadanie1\Zadanie1\obj\Debug\Zadanie1.csproj.GenerateResource.Cache
+c:\users\dotnet-3\documents\visual studio 2015\Projects\Zadanie1\Zadanie1\obj\Debug\Zadanie1.exe
+c:\users\dotnet-3\documents\visual studio 2015\Projects\Zadanie1\Zadanie1\obj\Debug\Zadanie1.pdb
+c:\users\dotnet-3\documents\visual studio 2015\Projects\Zadanie1\Zadanie1\obj\Debug\Zadanie1.Form1.resources
+E:\Zadanie1\Zadanie1\bin\Debug\Zadanie1.exe.config
+E:\Zadanie1\Zadanie1\obj\Debug\Zadanie1.exe
+E:\Zadanie1\Zadanie1\obj\Debug\Zadanie1.pdb
+E:\Zadanie1\Zadanie1\bin\Debug\Zadanie1.exe
+E:\Zadanie1\Zadanie1\bin\Debug\Zadanie1.pdb
+E:\Zadanie1\Zadanie1\obj\Debug\Zadanie1.Form1.resources
+E:\Zadanie1\Zadanie1\obj\Debug\Zadanie1.Properties.Resources.resources
+E:\Zadanie1\Zadanie1\obj\Debug\Zadanie1.csproj.GenerateResource.Cache
+E:\Zadanie1\Zadanie1\obj\Debug\Zadanie1.csprojResolveAssemblyReference.cache
+C:\Backup\MOJE\MISC\Zadanie1\Zadanie1\bin\Debug\Zadanie1.exe.config
+C:\Backup\MOJE\MISC\Zadanie1\Zadanie1\bin\Debug\Zadanie1.exe
+C:\Backup\MOJE\MISC\Zadanie1\Zadanie1\bin\Debug\Zadanie1.pdb
+C:\Backup\MOJE\MISC\Zadanie1\Zadanie1\obj\Debug\Zadanie1.csprojAssemblyReference.cache
+C:\Backup\MOJE\MISC\Zadanie1\Zadanie1\obj\Debug\Zadanie1.Form1.resources
+C:\Backup\MOJE\MISC\Zadanie1\Zadanie1\obj\Debug\Zadanie1.Properties.Resources.resources
+C:\Backup\MOJE\MISC\Zadanie1\Zadanie1\obj\Debug\Zadanie1.csproj.GenerateResource.cache
+C:\Backup\MOJE\MISC\Zadanie1\Zadanie1\obj\Debug\Zadanie1.csproj.CoreCompileInputs.cache
+C:\Backup\MOJE\MISC\Zadanie1\Zadanie1\obj\Debug\Zadanie1.exe
+C:\Backup\MOJE\MISC\Zadanie1\Zadanie1\obj\Debug\Zadanie1.pdb
+C:\Users\Maciej\source\repos\dotNET\Zadanie1\Zadanie1\bin\Debug\Zadanie1.exe.config
+C:\Users\Maciej\source\repos\dotNET\Zadanie1\Zadanie1\bin\Debug\Zadanie1.exe
+C:\Users\Maciej\source\repos\dotNET\Zadanie1\Zadanie1\bin\Debug\Zadanie1.pdb
+C:\Users\Maciej\source\repos\dotNET\Zadanie1\Zadanie1\obj\Debug\Zadanie1.csprojAssemblyReference.cache
+C:\Users\Maciej\source\repos\dotNET\Zadanie1\Zadanie1\obj\Debug\Zadanie1.Form1.resources
+C:\Users\Maciej\source\repos\dotNET\Zadanie1\Zadanie1\obj\Debug\Zadanie1.Properties.Resources.resources
+C:\Users\Maciej\source\repos\dotNET\Zadanie1\Zadanie1\obj\Debug\Zadanie1.csproj.GenerateResource.cache
+C:\Users\Maciej\source\repos\dotNET\Zadanie1\Zadanie1\obj\Debug\Zadanie1.csproj.CoreCompileInputs.cache
+C:\Users\Maciej\source\repos\dotNET\Zadanie1\Zadanie1\obj\Debug\Zadanie1.exe
+C:\Users\Maciej\source\repos\dotNET\Zadanie1\Zadanie1\obj\Debug\Zadanie1.pdb
